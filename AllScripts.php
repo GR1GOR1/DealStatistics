@@ -24,7 +24,7 @@
     $idArray = array();
 
     $link = mysqli_connect($host, $user, $password, $db_name);
-
+   //Запрос 2
     $query = "SELECT * FROM scriptstable";
     $result = mysqli_query($link, $query) or die(mysqli_error($link));
 
