@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Добро пожаловать!</title>
+    <title>Добро пожаловать! </title>
     <link href="GKS.css" rel="stylesheet" type="text/css">
 </head>
 
